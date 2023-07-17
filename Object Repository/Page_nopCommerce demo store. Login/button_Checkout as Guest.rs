@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Checkout as Guest</name>
+   <tag></tag>
+   <elementGuidId>9233165b-8f3d-43a7-91d4-33b5e119fd09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-1.checkout-as-guest-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f94011a3-2e95-4283-af86-72b9fe7ec626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a624b51-b6dd-47b9-bf5a-b1734a5e3489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-1 checkout-as-guest-button</value>
+      <webElementGuid>1f76ee59-aeda-4727-9b49-fec052432be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href=&quot;/checkout&quot;</value>
+      <webElementGuid>ea1750fc-99e9-43c7-8ab5-bec58ce571ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkout as Guest</value>
+      <webElementGuid>265cb281-0b9a-43ec-92c0-5aeb461da424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html-login-page&quot;]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-column-wrapper&quot;]/div[@class=&quot;center-1&quot;]/div[@class=&quot;page login-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;customer-blocks&quot;]/div[@class=&quot;new-wrapper checkout-as-guest-or-register-block&quot;]/div[@class=&quot;buttons&quot;]/button[@class=&quot;button-1 checkout-as-guest-button&quot;]</value>
+      <webElementGuid>2ffdeb09-9279-4be2-9a91-84e7afe5228b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>68b7fdaa-7546-495a-8e06-c64f34a8013c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Easy access to your order history and status'])[1]/following::button[1]</value>
+      <webElementGuid>6b4a5e51-7b01-46d1-a77d-a8997a73f89c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast and easy check out'])[1]/following::button[1]</value>
+      <webElementGuid>1efaafa5-76a9-403b-9e14-29af2fab0067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[2]/preceding::button[1]</value>
+      <webElementGuid>5ed172a9-098c-4b0a-9980-b2e70d93fe45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returning Customer'])[1]/preceding::button[2]</value>
+      <webElementGuid>71bb77ab-8171-4d72-8685-cf89bdd237c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checkout as Guest']/parent::*</value>
+      <webElementGuid>67ed5748-ed16-4bd1-8434-130dd1ac2e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>32caaaa4-4606-4041-ac8e-e1cfb85e04da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Checkout as Guest' or . = 'Checkout as Guest')]</value>
+      <webElementGuid>e20b93fd-c861-4dff-910c-c1e0bcc1be8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

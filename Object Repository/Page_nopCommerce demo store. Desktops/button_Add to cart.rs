@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to cart</name>
+   <tag></tag>
+   <elementGuidId>034ff5ca-2889-43ce-b83d-d684bad450ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1d226f46-e062-4259-9bc0-f5fe90b09a39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f0435979-6443-4470-96e1-5abd253e6999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-2 product-box-add-to-cart-button</value>
+      <webElementGuid>ddb11432-99f0-457d-ab2e-4cd0d3c792ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return AjaxCart.addproducttocart_catalog(&quot;/addproducttocart/catalog/3/1/1&quot;),!1</value>
+      <webElementGuid>45560f2e-deab-4ac9-bb85-997c90234ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>03ac62bd-eaef-40d8-8e12-ddecd3666551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html-category-page&quot;]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-column-wrapper&quot;]/div[@class=&quot;center-2&quot;]/div[@class=&quot;page category-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;products-container&quot;]/div[@class=&quot;products-wrapper&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;item-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;add-info&quot;]/div[@class=&quot;buttons&quot;]/button[@class=&quot;button-2 product-box-add-to-cart-button&quot;]</value>
+      <webElementGuid>f0010884-97b2-4498-aefb-457442eef4a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>cc5acb2d-4cbd-40f2-b62b-03a07bfac779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$500.00'])[1]/following::button[1]</value>
+      <webElementGuid>f231c54e-ca87-4c48-be17-d3a47c04fc12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lenovo IdeaCentre 600 All-in-One PC'])[1]/following::button[1]</value>
+      <webElementGuid>107b8d79-3f0a-4b8b-a8a1-ff9a9d874f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to compare list'])[3]/preceding::button[1]</value>
+      <webElementGuid>01dead4c-8a0f-40cb-9455-dc91ba7d86e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to wishlist'])[3]/preceding::button[2]</value>
+      <webElementGuid>b6434932-8fd1-4578-aadc-9be3d155e748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[3]/div[2]/button</value>
+      <webElementGuid>d1ad8abc-6151-46fd-9b8d-c3fd3ef6b64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>165fc677-5020-4a18-bf07-53bcd19ef04c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

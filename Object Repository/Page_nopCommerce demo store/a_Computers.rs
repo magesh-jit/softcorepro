@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Computers</name>
+   <tag></tag>
+   <elementGuidId>5fc8cc28-66d7-46db-9e19-1077aba549b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Computers')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.top-menu.notmobile > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b5412a36-ca82-4080-ab9e-670cc0a531fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/computers</value>
+      <webElementGuid>c5081940-e137-4dbd-8c57-f89258164c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Computers </value>
+      <webElementGuid>03f43d7f-c484-44d9-8112-4f22d823de49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html-home-page&quot;]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;header-menu&quot;]/ul[@class=&quot;top-menu notmobile&quot;]/li[1]/a[1]</value>
+      <webElementGuid>4f5ae257-fae9-4fe8-b4f5-f85ecf0a5c39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Computers')]</value>
+      <webElementGuid>7df103b1-ed8e-4810-9085-9836a0612385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[1]</value>
+      <webElementGuid>7bd35bc4-4b49-4ea0-9801-39206845e803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no items in your shopping cart.'])[1]/following::a[2]</value>
+      <webElementGuid>ca827462-d5cf-4535-9ba2-8fabe6115bad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktops'])[1]/preceding::a[1]</value>
+      <webElementGuid>a883061c-b47d-47ee-8b1e-d3f421dad28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notebooks'])[1]/preceding::a[2]</value>
+      <webElementGuid>498d6f5d-a574-43ff-9db4-0759c7986f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Computers']/parent::*</value>
+      <webElementGuid>39fddb88-ab3d-4196-a8ea-6bedc492da94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/computers')]</value>
+      <webElementGuid>116d6e8e-1fa8-4b41-976b-cdaf8bafcf59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>a1b75d0e-15ab-47ce-a616-f7125c74dbcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/computers' and (text() = 'Computers ' or . = 'Computers ')]</value>
+      <webElementGuid>ea2fc8a1-4251-4b5c-8713-862ce20bc725</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

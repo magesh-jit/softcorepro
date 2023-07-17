@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Electronics</name>
+   <tag></tag>
+   <elementGuidId>75760f80-1ca2-4970-bda7-2157db595da0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Electronics')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.top-menu.notmobile > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>15f4b253-d56f-4961-addd-210644ae805f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/electronics</value>
+      <webElementGuid>9df3bb0f-518c-421d-81d2-3bc80aa7b922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Electronics </value>
+      <webElementGuid>f58ac936-0898-4453-93d4-1d38df2aa2d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html-category-page&quot;]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;header-menu&quot;]/ul[@class=&quot;top-menu notmobile&quot;]/li[2]/a[1]</value>
+      <webElementGuid>040889f1-74dd-4ec9-b26e-674bfb4f965c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Electronics')]</value>
+      <webElementGuid>f3f4d52c-6de5-4748-ac14-a919542be8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software'])[1]/following::a[1]</value>
+      <webElementGuid>56e59643-efd2-4ab7-97b4-d08952ccc42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notebooks'])[1]/following::a[2]</value>
+      <webElementGuid>0c48806a-7c95-4685-98b1-9e6811eb2682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Camera &amp; photo'])[1]/preceding::a[1]</value>
+      <webElementGuid>d1d5da21-de99-4760-848c-5f8fee9e184c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cell phones'])[1]/preceding::a[2]</value>
+      <webElementGuid>9bdba005-304f-47e1-aa65-ed03bab08b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Electronics']/parent::*</value>
+      <webElementGuid>5ed02ef1-d3e2-4fad-867f-4b3cbc35e4e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/electronics')]</value>
+      <webElementGuid>50241fb9-2ea2-4cd0-9ba5-3dbaac59d55d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a</value>
+      <webElementGuid>025e4cc1-f19e-4442-b6b1-c8d359514000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/electronics' and (text() = 'Electronics ' or . = 'Electronics ')]</value>
+      <webElementGuid>8e84043d-9081-4d7b-99f5-39b7dcf8cc2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
